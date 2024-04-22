@@ -14,6 +14,8 @@ make clean shell
 ./shell
 ```
 
+Multiple Built-Ins can be used like 'cd', 'ls', 'status', 'exit' and 'kill', 'jobs' for background process operations
+
 ## Bonus
 
 This contains bonus code for Assignment 1 of the Operating Systems course. We implemented the prompt before each input line and the `cd` command in the shell.
