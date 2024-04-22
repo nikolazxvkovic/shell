@@ -2,6 +2,11 @@
 
 ## Introduction
 
+This contains a custom advanced shell as part of the Operating Sytems course at University of Groningen. It incorporates features such as background process execution,
+signal handling, and built-in commands for enhanced user control.
+
+##Bonus
+
 This contains bonus code for Assignment 1 of the Operating Systems course. We implemented the prompt before each input line and the `cd` command in the shell.
 
 ## Testing
